@@ -10,6 +10,8 @@ description: |
     session.  For example, if the user is already logged in, this button will show "Logout".
 
     See the examples in the <Modules.Facebook> documentation.
+    
+    YAHAHHAAH
 extends: Titanium.UI.View
 since: "3.1.0"
 platforms: [android, iphone, ipad]
